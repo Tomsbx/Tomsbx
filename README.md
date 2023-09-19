@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Im currently working on my own projects.<br>Im looking to collaborate with other developers.<br>Im currently learning Full Stack development<br>
 
 
