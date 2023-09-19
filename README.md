@@ -1,7 +1,3 @@
-#  About Me:
-Im currently working on my own projects.<br>Im looking to collaborate with other developers.<br>Im currently learning Full Stack development<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tomy_silvera) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tomassilvera) 
 
