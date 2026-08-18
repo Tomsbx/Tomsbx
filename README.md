@@ -42,7 +42,7 @@ de red con OpenVAS y Suricata, con generación y envío automático de reportes.
 
 ### Dónde encontrarme
 
-- **Portafolio** — *(acá va el dominio cuando lo tengas)*
+- **Portafolio** — *en proceso*
 - **LinkedIn** — [in/tomassilvera](https://linkedin.com/in/tomassilvera)
 - **Email** — tomassilvera99@gmail.com
 
