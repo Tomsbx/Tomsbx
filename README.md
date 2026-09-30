@@ -13,7 +13,6 @@ la primera línea.
 ### En qué trabajo
 
 | | |
-|---|---|
 | **Frontend** | React · JavaScript (ES6+) · HTML5 · CSS3 · Vite · UX/UI · SEO on-page |
 | **Backend** | Node.js · Express · Python · SQLite · APIs REST |
 | **Tooling y deploy** | Git · GitHub · Linux · pm2 · Hostinger |
